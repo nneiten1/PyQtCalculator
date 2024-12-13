@@ -1,2 +1,2 @@
 # PyQtCalculator
-Calculator
+Calculator GUI using PyQt6
